@@ -4,13 +4,14 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function HomePage() {
   const pdfs = [
+    { href: "/Free_Database_Cloud_Tiers_Reel_Script.pdf", label: "Free Database for Project" },
     { href: "/Database_Selection_By_Project.pdf", label: "Database Selection By Project" },
     { href: "/freelancer_payment_methods.pdf", label: "Project payment methods Alert" },
     { href: "/fiverr_gig_ranking_tips.pdf", label: "fiverr gig ranking tips" },
     { href: "/All_Prompts.pdf", label: "Prompt list for 3D image generate" },
     { href: "/AI_Basics_QA_Examples.pdf", label: "AI basic question and answer" },
     { href: "/All_Basic_IT_Intern_Questions.pdf", label: "Internship Interview Questions" },
-    { href: "/Website_Technology_Hosting_Guide.pdf", label: "Website Technology Hosting Guide" },
+    // { href: "/Website_Technology_Hosting_Guide.pdf", label: "Website Technology Hosting Guide" },
     // { href: "/supabase_overview.pdf", label: "Full overview of supabase" },
     // { href: "/Project_Lifecycle_Roles.pdf", label: "Client attract Client" },
     // { href: "/Client_Handling_Quick_Responses.pdf", label: "Client Handling Quick Responses" },
