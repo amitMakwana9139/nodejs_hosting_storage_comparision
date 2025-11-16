@@ -31,7 +31,7 @@ export default function HomePage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        Freelancer to Agency Guide
+        All PDF
       </motion.h1>
 
       {/* Card Container */}
@@ -43,7 +43,7 @@ export default function HomePage() {
       >
         {/* Description */}
         <p className="text-lg mb-6 text-center text-gray-700">
-          Download full overview and benefits of supabase.
+          Download.
         </p>
 
         {/* PDF Grid */}
